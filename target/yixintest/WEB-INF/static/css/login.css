@@ -1,0 +1,49 @@
+.top_content li {
+    float: right;
+    font-size: 12px;
+    line-height: 27px;
+    margin-left: 20px;
+    text-decoration: none;
+    list-style: none url("../img/right.png");
+    text-align: center;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.top_content {
+    background-color: aquamarine;
+    height: 27px;
+    width: 900px;
+    margin: 0 auto;
+}
+
+.title_box {
+    background-color: aqua;
+    height: 27px;
+}
+
+body {
+    background-color: white;
+}
+
+a:link, a:visited, a:hover, a:active {
+    text-decoration: none;
+}
+
+a:link, a:visited {
+    color: black;
+}
+
+a:active {
+    color: aqua;
+}
+
+.warp{
+    background-color: #F5F5F5;
+    width: 1000px;
+    margin: 0 auto;
+    height: 1000px;
+}
